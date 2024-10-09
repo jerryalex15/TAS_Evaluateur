@@ -1,0 +1,4 @@
+(executable
+ (public_name TAS_Project)
+ (name main)
+ (libraries TAS_Project))
